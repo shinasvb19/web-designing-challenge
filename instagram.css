@@ -1,0 +1,198 @@
+body{
+    background-color: #fafbfa;
+
+  
+}
+.mainBodydiv{
+    width: 100%;
+    height: 100%;
+}
+.mainBodydiv
+{
+    width: 50%;
+    height: 50%;
+    margin-top: 100px;
+    margin-left: 550px;
+}
+.mobilephoto{
+    
+    float: left;
+}
+.instaformandlogo{
+    background-color: white;
+    width: 35%;
+    height: 400px;
+    float: left;
+    padding: 10px;
+    border: 1px solid;
+    border-color: rgba(var(--b6a,219,219,219),1);
+}
+.instalogo{
+    padding-left: 90px;
+    padding-top: 40px;
+}
+.usernamediv{
+  
+    padding-top: 48px;
+    padding-left: 20px;
+}
+.username{
+    width: 280px;
+    height: 30px;
+    background-color:#fafbfa ;
+    border: 1px solid;
+    border-color: rgba(var(--b6a,219,219,219),1);
+}
+.passworddiv
+{
+    padding-top: 5px;
+   
+}
+
+.password{
+    width: 280px;
+    height: 30px;
+    background-color:#fafbfa ;
+    border: 1px solid;
+    border-color: rgba(var(--b6a,219,219,219),1);
+}
+.logindiv{
+    padding-top: 15px ;
+}
+.login{
+    width: 286px;
+    height: 30px;
+    background-color:#b2dffc ;
+    border: 1px solid;
+    color: white;
+    border-color: rgba(var(--b6a,219,219,219),1);
+}
+.line
+{
+    position: relative;
+    padding: 20px;
+}
+.line:after
+{
+    content: "";
+    border-radius: 20px ;
+    background: #adadad;
+    height: 1px;
+    width: 80%;
+    display: block;
+  
+}
+.line span
+{
+   position: absolute;
+   top: 40%;
+   left: 40%;
+   transform: translate(-40%, -40%);
+   background: white;
+   padding: 10px;
+}
+.grey{
+   color: grey;
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+    float: left;
+    padding-top: 10px;
+
+}
+.facebooklogo
+{
+    
+    padding-left: 50px;
+}
+.loginwithfb{
+    float: left;
+}
+.forgotpassword
+{
+    padding: 35px;
+}
+.signup
+{
+width: 37%;
+height: 60px;
+margin-top: 10px;
+background-color: white;
+border: 1px solid;
+border-color: rgba(var(--b6a,219,219,219),1);
+float: left;
+
+
+}
+.signupdiv{
+      padding-left: 50px;
+      padding-top: 10px;
+      float: left;
+     
+      
+}
+.link{
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.sign{
+    color: blue;
+    text-decoration: none;
+}
+.gettheapp{
+    padding-top: 60px;
+    padding-left: 115px;
+    
+}
+.app{
+   width: 100%;
+}
+.appstore{
+    width: 140px;
+    height: 100px;
+    float: left;
+    padding: 10px;
+}
+.playstore{
+    width: 140px;
+    height: 100px;
+    float: left;
+    padding: 10px;
+}
+.play{
+    width: 100%;
+}
+
+.footerdiv{
+    width:100%;
+    padding-top: 100px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+   
+ 
+}
+a{
+    text-decoration: none;
+}
+.meta{
+    float: left;
+    color:rgba(var(--f52,142,142,142),1);
+    padding-left: 8px;
+    font: 15px sans-serif;
+   
+}
+.meta1{
+    width:100%;
+    
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
